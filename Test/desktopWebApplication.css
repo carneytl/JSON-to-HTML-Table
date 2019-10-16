@@ -6,6 +6,10 @@ body {
     background-color: linen;
 }
 
+#buttonTools {
+    float: left;
+}
+
 #myInput {
     /* Add a search icon to input */
     background-position: 10px 12px;
